@@ -9,5 +9,8 @@
 - 👨‍🏫 I'm a former science teacher (biology, chemistry, physics, and general science)
 - 🧪 I'm also an ASCP<sup>CM</sup> certified Medical Laboratory Scientist.
 
+### Languages, Frameworks, Tools
+<img src="icons/csharp.png" width="50" /> <img src="icons/dotnet.png" width="50" /> <img src="icons/js.png" width="50" /> <img src="icons/git.png" width="50" /> <img src="icons/visualstudio.png" width="50" />
+
 [Unit Testing: Principles, Practices, and Patterns]: https://www.manning.com/books/unit-testing
 [lichess]: https://github.com/ornicar/lila
